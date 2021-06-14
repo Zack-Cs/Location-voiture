@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1585586799 source:c:\users\hp\desktop\updated\locacar\date.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototypes.h"
+
+1585923110 c:\users\hp\desktop\updated\locacar\prototypes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1585923109 source:c:\users\hp\desktop\updated\locacar\foctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototypes.h"
+
+1586087484 source:c:\users\hp\desktop\updated\locacar\fonctions_contrat.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototypes.h"
+
+1586091655 source:c:\users\hp\desktop\updated\locacar\fonctions_voiture.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototypes.h"
+
+1585673339 source:c:\users\hp\desktop\updated\locacar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototypes.h"
+
